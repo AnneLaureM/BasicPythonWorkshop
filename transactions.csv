@@ -1,0 +1,6 @@
+transaction_id,customer_name,email,transaction_amount,transaction_date,description
+1001,Alice Johnson,alice@gmail.com,200,2024-02-01,Purchase of electronic items
+1002,Bob Smith,bob@yahoo.com,7500,2024-02-02,Refund for previous order
+1003,Charlie Lee,charlie@hotmail.com,50,2024-02-03,Coffee and snacks
+1004,David Brown,david@company.com,3000,2024-02-04,Large furniture purchase
+1005,Emma Wilson,emma@business.org,600,2024-02-05,Chargeback dispute
