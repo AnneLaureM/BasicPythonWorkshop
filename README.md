@@ -1,5 +1,5 @@
 # BasicPythonWorkshop
-This Jupyter notebook will teach you how to set up Python virtual environments with Miniconda, data structures, Pandas DataFrames, certain algorithmic principles, regular expressions and reading and writing to files.
+This course provides a comprehensive guide to setting up Python virtual environments with Miniconda, working with data structures, manipulating Pandas DataFrames, applying algorithmic principles, utilizing regular expressions, and efficiently handling file operations.
 
 # Advanced Python Workshop
 
